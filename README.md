@@ -14,4 +14,7 @@ Together, these variables will be used to predict the number of deaths for a cou
 
 Datasets: 
 The dataset we will use to get the total number of tests per million date-wise can be found here (OurWorld dataset). : https://ourworldindata.org/grapher/covid-19-tests-deaths-scatter-with-comparisons 
+
 The dataset we will use to identify the number of confirmed cases and deaths can be found here: Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) - https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+
+Tagged day dataset: https://github.com/secregister01/COVID19-N20/tree/master/DateWorld
