@@ -11,7 +11,7 @@ For this project, we plan to design a model by comparing two countries (USA and 
  Dates for each day since the 20th confirmed case in the country,
  Testing density (per million)
 
-Together, these variables will be used to predict the number of deaths for a country using regression models. 
+Together, these variables will be used to predict the total deaths for each country using regression models. 
 
 # Datasets: 
 The dataset we will use to get the total number of tests per million date-wise can be found here (OurWorld dataset). : https://ourworldindata.org/grapher/covid-19-tests-deaths-scatter-with-comparisons 
